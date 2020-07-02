@@ -1,0 +1,34 @@
+#main-content > .grid-container > .grid-row {
+  border: 1px solid #555;
+  border-radius: 1rem;
+}
+#Navbar {
+  margin-bottom: 0.5rem;
+}
+#ContentDiv {
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.shoPageSection {
+  height: 55vh;
+  overflow-y: auto;
+}
+
+
+
+@media (min-width: 64em) {
+
+}
+
+@media (max-width: 63.938em) {
+	
+  .usa-navbar {
+    border-bottom: none;
+  }
+	
+  .shoPageSection {
+    height: 100%;
+    overflow-y: visible;
+  }
+	
+}

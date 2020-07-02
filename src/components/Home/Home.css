@@ -1,0 +1,22 @@
+#Symptoms {
+  line-height: 1.7;
+}
+.searchSymptomsInput {
+  border: none;
+  border-bottom: 1px solid #0a4b76;
+  transition: ease-in-out 0.2s;
+  box-sizing: border-box;
+  /* font-style: italic; */
+}
+.searchSymptomsInput:focus {
+  /* border-bottom: 1px solid #0a4b76; */
+  outline: none !important;
+  border-bottom: 3px solid #0c5f96;
+  transition: ease-in-out 0.2s;
+}
+.emptyInput {
+  border-bottom: 1px solid red;
+}
+.formDiv {
+  
+}

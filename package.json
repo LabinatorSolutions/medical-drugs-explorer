@@ -1,0 +1,33 @@
+{
+  "name": "medical-drugs-explorer",
+  "version": "1.0.0",
+  "description": "The DHILab Medical Drugs Explorer is designed to pull drugs' information using the openFDA API based on the user's query.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "Labinator.com",
+  "license": "GPLv3",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
