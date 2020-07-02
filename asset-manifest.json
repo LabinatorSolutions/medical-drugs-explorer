@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/medical-drugs-explorer-live/static/css/main.9a7c80d4.chunk.css",
-    "main.js": "/medical-drugs-explorer-live/static/js/main.6ded1aab.chunk.js",
-    "main.js.map": "/medical-drugs-explorer-live/static/js/main.6ded1aab.chunk.js.map",
-    "runtime-main.js": "/medical-drugs-explorer-live/static/js/runtime-main.f963dabe.js",
-    "runtime-main.js.map": "/medical-drugs-explorer-live/static/js/runtime-main.f963dabe.js.map",
-    "static/js/2.a7dbe9e4.chunk.js": "/medical-drugs-explorer-live/static/js/2.a7dbe9e4.chunk.js",
-    "static/js/2.a7dbe9e4.chunk.js.map": "/medical-drugs-explorer-live/static/js/2.a7dbe9e4.chunk.js.map",
-    "index.html": "/medical-drugs-explorer-live/index.html",
-    "precache-manifest.3a92eb290e48b1edff25dba1c3e019e4.js": "/medical-drugs-explorer-live/precache-manifest.3a92eb290e48b1edff25dba1c3e019e4.js",
-    "service-worker.js": "/medical-drugs-explorer-live/service-worker.js",
-    "static/css/main.9a7c80d4.chunk.css.map": "/medical-drugs-explorer-live/static/css/main.9a7c80d4.chunk.css.map",
-    "static/js/2.a7dbe9e4.chunk.js.LICENSE.txt": "/medical-drugs-explorer-live/static/js/2.a7dbe9e4.chunk.js.LICENSE.txt"
+    "main.css": "/medical-drugs-explorer/static/css/main.9a7c80d4.chunk.css",
+    "main.js": "/medical-drugs-explorer/static/js/main.6ded1aab.chunk.js",
+    "main.js.map": "/medical-drugs-explorer/static/js/main.6ded1aab.chunk.js.map",
+    "runtime-main.js": "/medical-drugs-explorer/static/js/runtime-main.a66724a7.js",
+    "runtime-main.js.map": "/medical-drugs-explorer/static/js/runtime-main.a66724a7.js.map",
+    "static/js/2.a7dbe9e4.chunk.js": "/medical-drugs-explorer/static/js/2.a7dbe9e4.chunk.js",
+    "static/js/2.a7dbe9e4.chunk.js.map": "/medical-drugs-explorer/static/js/2.a7dbe9e4.chunk.js.map",
+    "index.html": "/medical-drugs-explorer/index.html",
+    "precache-manifest.637b5815b29b4b8471a1e0cf2681fa05.js": "/medical-drugs-explorer/precache-manifest.637b5815b29b4b8471a1e0cf2681fa05.js",
+    "service-worker.js": "/medical-drugs-explorer/service-worker.js",
+    "static/css/main.9a7c80d4.chunk.css.map": "/medical-drugs-explorer/static/css/main.9a7c80d4.chunk.css.map",
+    "static/js/2.a7dbe9e4.chunk.js.LICENSE.txt": "/medical-drugs-explorer/static/js/2.a7dbe9e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f963dabe.js",
+    "static/js/runtime-main.a66724a7.js",
     "static/js/2.a7dbe9e4.chunk.js",
     "static/css/main.9a7c80d4.chunk.css",
     "static/js/main.6ded1aab.chunk.js"
