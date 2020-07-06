@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b6f5d26be794f3524818a8b7bda0852",
+    "revision": "06edd1a3a1f2baa0e355c5d030e5878b",
     "url": "/medical-drugs-explorer/index.html"
   },
   {
-    "revision": "ca9829f8a365aea84284",
+    "revision": "6238dabfa0de313459dc",
     "url": "/medical-drugs-explorer/static/css/main.9a7c80d4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/medical-drugs-explorer/static/js/2.a7dbe9e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca9829f8a365aea84284",
-    "url": "/medical-drugs-explorer/static/js/main.6ded1aab.chunk.js"
+    "revision": "6238dabfa0de313459dc",
+    "url": "/medical-drugs-explorer/static/js/main.737e6d5f.chunk.js"
   },
   {
     "revision": "e0ac5c83cafa3d192ba7",

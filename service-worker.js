@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/medical-drugs-explorer/precache-manifest.637b5815b29b4b8471a1e0cf2681fa05.js"
+  "/medical-drugs-explorer/precache-manifest.95afe1825d54080607fe1a025b2f7b60.js"
 );
 
 self.addEventListener('message', (event) => {
