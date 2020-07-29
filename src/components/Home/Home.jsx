@@ -22,11 +22,11 @@ class Home extends Component {
         let searchedVal = this.state.val.toLowerCase();
         let apilinkone = `https://api.fda.gov/drug/label.json?search=active_ingredient:%22${searchedVal}%22&limit=1`;
 		let apilinktwo = `https://api.fda.gov/drug/label.json?search=description:%22${searchedVal}%22&limit=1`;
-		
+
         fetch(apilinkone).then(res => res.json()).then(
             (result) => {
                 if (typeof result.error !== 'undefined') {
-					
+
                 fetch(apilinktwo).then(res => res.json()).then(
 					(result) => {
                 if (typeof result.error !== 'undefined') {
@@ -66,11 +66,11 @@ class Home extends Component {
         let searchedVal = this.state.val.toLowerCase();
         let apilinkone = `https://api.fda.gov/drug/label.json?search=active_ingredient:%22${searchedVal}%22&limit=1`;
 		let apilinktwo = `https://api.fda.gov/drug/label.json?search=description:%22${searchedVal}%22&limit=1`;
-		
+
         fetch(apilinkone).then(res => res.json()).then(
             (result) => {
                 if (typeof result.error !== 'undefined') {
-					
+
                 fetch(apilinktwo).then(res => res.json()).then(
 					(result) => {
                 if (typeof result.error !== 'undefined') {
@@ -119,7 +119,7 @@ class Home extends Component {
 		  <div className="display-flex flex-row flex-wrap">
 		  <p><span className="text-black text-bold">Product Type: </span>{this.state.drugDetails.openfda.product_type ? this.state.drugDetails.openfda.product_type : "Not Available"}</p></div>
 		  <div className="display-flex flex-row flex-wrap">
-		  {this.state.drugDetails.active_ingredient ? 
+		  {this.state.drugDetails.active_ingredient ?
 		  <p><span className="text-black text-bold">Active Ingredients: </span><ul>{
 			  this.state.drugDetails.active_ingredient.map((key, id) => (
 			     <li key={id}>{key}</li>
@@ -129,7 +129,7 @@ class Home extends Component {
 		  }
 		  </div>
 		  <div className="display-flex flex-row flex-wrap">
-		  {this.state.drugDetails.inactive_ingredient ? 
+		  {this.state.drugDetails.inactive_ingredient ?
 		  <p><span className="text-black text-bold">Inactive Ingredients: </span><ul>{
 			  this.state.drugDetails.inactive_ingredient.map((key, id) => (
 			     <li key={id}>{key}</li>
@@ -183,7 +183,7 @@ class Home extends Component {
 			 className={`${this.state.emptyInput === 1 && "emptyInput"} ${this.state.usaInput === 0 && "usa-input searchSymptomsInput"}`}
               onKeyDown={this.keyDownEvent}
               onChange={this.handleChange}
-              placeholder="Search Symptoms"
+              placeholder="Search"
               id="input-type-text"
               name="input-type-text"
               type="text"
