@@ -17,7 +17,7 @@ Our mission is to create a free and open source medical drugs explorer where all
 ## Live Demo
 
 - Live demo on DHILab.com: https://dhilab.com/medical-drugs-explorer-live/
-- Live demo on GitHub.io: https://labinatorsolutions.github.io/medical-drugs-explorer-live/
+- Live demo on GitHub.io: https://labinatorsolutions.github.io/medical-drugs-explorer/
 
 ## Features
 
