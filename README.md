@@ -1,4 +1,4 @@
-# DHILab Medical Drugs Explorer
+# Labinator Medical Drugs Explorer
 
 ![GUI](https://img.shields.io/badge/GUI-USWDS_2.7.1-0B1013)
 ![Language](https://img.shields.io/badge/Language-JavaScript-026300)
@@ -8,7 +8,7 @@
 
 ## Description
 
-The DHILab Medical Drugs Explorer is designed to pull drugs' information using the openFDA API based on the user's query.
+The Labinator Medical Drugs Explorer is designed to pull drugs' information using the openFDA API based on the user's query.
 
 ## Mission
 
@@ -16,7 +16,6 @@ Our mission is to create a free and open source medical drugs explorer where all
 
 ## Live Demo
 
-- Live demo on DHILab.com: https://dhilab.com/medical-drugs-explorer-live/
 - Live demo on GitHub.io: https://labinatorsolutions.github.io/medical-drugs-explorer/
 
 ## Features
@@ -88,7 +87,6 @@ GNU GPLv3: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 
 ## Credits
 
-- [DHILab](https://dhilab.com/)
 - [Labinator](https://labinator.com/)
 - [USWDS](https://designsystem.digital.gov/)
 - [OpenFDA](https://open.fda.gov/)
